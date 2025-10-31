@@ -14,7 +14,8 @@
     "react-dom": "^19.1.1",
     "tailwindcss": "^3.4.6",
     "postcss": "^8.4.39",
-    "autoprefixer": "^10.4.19"
+    "autoprefixer": "^10.4.19",
+    "lucide-react": "^0.417.0"  <-- THIS IS THE NEW FIX
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
